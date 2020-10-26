@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.ArrayList;
-
+//time complexity= n
 public class LongestNumsOf1s {
 
 	public static void main(String[] args) {
